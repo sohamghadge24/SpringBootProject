@@ -1,5 +1,12 @@
 # SpringBootProject #back-End project 
 
+Design by :
+1. Shital Kurhade
+2. Tejaswini Gangurde
+3. Shravani lad
+4. Anushka 
+5. Soham Ghadge
+6. Pratham Kirtane
 
 The SuperMarket project is a Spring Boot application that allows users to browse and purchase items from a virtual grocery store. The application has the following features:
 
@@ -31,3 +38,6 @@ The application will be accessible at http://localhost:8080
 
 
 Please note that the application is intended for demonstration purposes only and should not be used in a production environment without proper security and testing.
+
+
+
