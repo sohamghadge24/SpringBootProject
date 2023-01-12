@@ -8,7 +8,8 @@ Design by :
 5. Soham Ghadge
 6. Pratham Kirtane
 
-The SuperMarket project is a Spring Boot application that allows users to browse and purchase items from a virtual grocery store. The application has the following features:
+The SuperMarket project is a Spring Boot back-end application that provides a RESTful API for a virtual grocery store. The API allows users to perform the following actions:
+
 
 Item catalog: Users can view a list of all available items, including their names, descriptions, and prices.
 1. Shopping cart: Users can add items to their cart and view the total cost of their purchase.
@@ -33,6 +34,7 @@ You can run the application by following these steps:
 1.Clone the repository to your local machine
 2.Run the command "mvn clean install" to build the application
 3.Create a MySQL database and configure the database connection in the application.properties file
+()
 4.Run the command "mvn spring-boot:run" to start the application
 The application will be accessible at http://localhost:8080
 
