@@ -25,17 +25,16 @@ The application is built using the Spring Boot framework and makes use of the fo
 
 
 To run the application, you will need to have the following installed on your machine:
-1.Java 8 or later
-2.Maven
-3.MySQL
+1. Java 8 or later
+2. Maven
+3. MySQL
 
 You can run the application by following these steps:
 
-1.Clone the repository to your local machine
-2.Run the command "mvn clean install" to build the application
-3.Create a MySQL database and configure the database connection in the application.properties file
-()
-4.Run the command "mvn spring-boot:run" to start the application
+1. Clone the repository to your local machine
+2. Run the command "mvn clean install" to build the application
+3. Create a MySQL database and configure the database connection in the application.properties file
+4. Run the command "mvn spring-boot:run" to start the application
 The application will be accessible at http://localhost:8080
 
 
